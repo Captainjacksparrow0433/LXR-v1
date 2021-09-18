@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/QoXw903mHLu4mqPfLd/giphy.gif?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+<img src="https://telegra.ph/file/6cae56a1a71342777acdc.jpg" alt="JPG" width="300" height="250"/>
 </p>
   <p align="center">
 <a href="https://github.com/LXR-YOUTUBER-AMAL"><img title="Author" src="https://img.shields.io/badge/Author-Amal-LXR-YOUTUBER-AMAL/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
