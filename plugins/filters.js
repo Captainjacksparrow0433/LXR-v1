@@ -58,7 +58,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/mention
 await message.client.sendMessage(message.jid, fs.readFileSync('uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['Arjun','Akhil','song','Myr','Abin Akhil Arjun','caption','Mrng','Di','Bro','Abinshaji','avan','converting','Abin','Allah','bg','help','Hii','odiko','oho','killadi','oo','Fuck','invite','photo','Hi','love','Owner','Group','list','man','Nanba','https','oii','poda','yo','sad','work','set','remove','thukum','poko','myre,','kundan','xmedia','commands','Boss','vava','Myre','Lalitha','start','Adithhari','sing','Hello','Bye','warn','Baby','who','find','power','myr','vanam','tagall','Re entry','pass','patti','phaa','mone','look','bor','try','owner','luv','feel','romam','set','potte','no replay','bgm','vijay','poli','I love you']
+const array = ['alive','Arjun','Akhil','song','Myr','Abin Akhil Arjun','caption','Mrng','Di','Bro','Abinshaji','avan','converting','Abin','Allah','bg','help','Hii','odiko','oho','killadi','oo','Fuck','invite','photo','Hi','love','Owner','Group','list','man','Nanba','https','oii','poda','yo','sad','work','set','remove','thukum','poko','myre,','kundan','xmedia','commands','Boss','vava','Myre','Lalitha','start','Adithhari','sing','Hello','Bye','warn','Baby','who','find','power','myr','vanam','tagall','Re entry','pass','patti','phaa','mone','look','bor','try','owner','luv','feel','romam','set','potte','no replay','bgm','vijay','poli','I love you']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
