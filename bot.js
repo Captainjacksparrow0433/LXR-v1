@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('LXRYOUTUBER working 💌')
+            chalk.green.bold('LXR_v1 working 💌')
         );
     });
     
