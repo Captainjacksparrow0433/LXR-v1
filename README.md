@@ -1,12 +1,12 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+Jack+WA+Bot+repo;Created+by+Abin;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+JACK+WA+Bot+repo;Created+by+Abin;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/ab82bcace55af0c7fbe1f.jpg" alt="JPG" width="300" height="250"/>
+<img src="https://telegra.ph/file/ce038342b49656b7cef44.jpg" alt="JPG" width="300" height="250"/>
 </p>
   <p align="center">
 <a href="https://github.com/Captainjacksparrow0433"><img title="Author" src="https://img.shields.io/badge/Author-Abin-LXR-JACK-ABIN/LXR-v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
