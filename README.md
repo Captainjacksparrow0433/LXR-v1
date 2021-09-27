@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+YOUTUBER+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+Jack+WA+Bot+repo;Created+by+Abin;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,11 +9,11 @@
 <img src="https://telegra.ph/file/6cae56a1a71342777acdc.jpg" alt="JPG" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/LXR-YOUTUBER-AMAL"><img title="Author" src="https://img.shields.io/badge/Author-Amal-LXR-YOUTUBER-AMAL/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Captainjacksparrow0433"><img title="Author" src="https://img.shields.io/badge/Author-Abin-LXR-JACK-ABIN/LXR-v1?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/Captainjacksparrow0433">LXR-v1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,8 +34,8 @@ Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a>
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Captainjacksparrow0433/LXR-v1
+$ cd LXR-v1
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -43,8 +43,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2
-$ cd Amalser_v2
+$ git clone https://github.com/Captainjacksparrow0433/LXR-v1
+$ cd LXR-v1
 $ npm i
 $ node julie.js
 ```
