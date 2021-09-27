@@ -30,7 +30,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*LXR_v2_Jack made by Abin🤗*                *For more help contact* https://wa.me/+919061103727 ' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*LXR_v2_Jack made by Abin🤗*\n\n*For more help contact* https://wa.me/+919061103727 ' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.OWNER + '\n\n--------------------', MessageType.text);
