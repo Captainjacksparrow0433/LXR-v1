@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *LXRYOUTUBER*:  ```" + msg + "```"
+    return "✅ *LXR JACK*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *LXRYOUTUBER*:  ```" + msg + "```"
+    return "🛑 *LXR JACK*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *LXRYOUTUBER*:  ```" + msg + "```"
+    return "ℹ️ *LXR JACK*:  ```" + msg + "```"
 }
 
 
